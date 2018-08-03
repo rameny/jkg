@@ -1,0 +1,85 @@
+.img1 {
+  max-width:100%;
+  display: block;
+  height: auto;
+  
+}
+.downarrow {
+  position: relative;
+  display: block;
+  margin-top: -10%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+.nna {
+  color: rgb(195,140,99);
+  font-size: 40px;
+  text-align: center;
+  margin-top:50%;
+}
+.sug {
+  color: rgb(195,140,99);
+  font-size: 30px;
+  text-align: center;
+  margin-top:50%;
+}
+.gh {
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  position:relative;
+  display:block;
+  margin-bottom: 1%;
+}
+.input1{
+  margin-left:auto;
+  margin-right:auto;
+  border-color: rgb(232,212,205);
+  border-width:5px;
+  display: block;
+  position: relative;
+  
+}
+.text {
+  margin-right: auto;
+  margin-left: auto; 
+  border-color: rgb(232,212,205);
+  border-width:5px;
+  height: 100px;
+  width: 165px;
+  margin-top: -2%;
+  border-style: inset;
+  display:block;
+  position:relative;
+}
+.input2 {
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 1%;
+  border-color: rgb(232,212,205);
+  border-width:5px;
+  display:block;
+  position: relative;
+}
+.submit{
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+  position: relative;
+}
+@media screen and (min-width: 600px) {
+  .submit {
+    margin-left: auto; }
+}
+.uparrow {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+  margin-top: 3%;
+}
